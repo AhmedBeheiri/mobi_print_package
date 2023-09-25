@@ -1,0 +1,81 @@
+
+k
+java:S1192%"NDefine a constant instead of duplicating this literal "/proc/printer" 3 times.(Êò˜¨8’Ó¾¹¦1
+L
+java:S1121¨".Extract the assignment out of this expression.(Îßœ—8’Ó¾¹¦1
+L
+java:S1121¨".Extract the assignment out of this expression.(Îßœ—8’Ó¾¹¦1
+L
+java:S1121¨".Extract the assignment out of this expression.(Îßœ—8’Ó¾¹¦1
+L
+java:S1121¨".Extract the assignment out of this expression.(Îßœ—8’Ó¾¹¦1
+Q
+java:S1121«".Extract the assignment out of this expression.(ñÌéÑüÿÿÿÿ8’Ó¾¹¦1
+r	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¬Ü±ıÿÿÿÿ8“Ó¾¹¦1
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¶Åµøÿÿÿÿ8“Ó¾¹¦1
+r	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯šìÔÿÿÿÿÿ8”Ó¾¹¦1
+r	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅïàÒşÿÿÿÿ8”Ó¾¹¦1
+r	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğê¡ñşÿÿÿÿ8”Ó¾¹¦1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ºğŒúÿÿÿÿ8”Ó¾¹¦1
+s	java:S117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¬Ü±ıÿÿÿÿ8”Ó¾¹¦1
+n	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÀ‚8”Ó¾¹¦1
+s	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëşÿúÿÿÿÿ8”Ó¾¹¦1
+n	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤ 8”Ó¾¹¦1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†àœ²ıÿÿÿÿ8”Ó¾¹¦1
+ˆ
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "bitmap_header".(†àœ²ıÿÿÿÿ8–Ó¾¹¦1
+^
+java:S2184é"@Cast one of the operands of this addition operation to a "long".(å‚’¨8œÓ¾¹¦1
+i
+java:S2184ó"FCast one of the operands of this multiplication operation to a "long".(—ÄÿÏøÿÿÿÿ8œÓ¾¹¦1
+q
+java:S2095”"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¿ØÌûÿÿÿÿ8ÚÕ¾¹¦1
+q
+java:S2095Ö"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(­†íÀúÿÿÿÿ8ÛÕ¾¹¦1
+l
+java:S2095ñ"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(şÅœ¼8ÜÕ¾¹¦1
+q
+java:S2095º"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(­†íÀúÿÿÿÿ8ÜÕ¾¹¦1
+Y
+java:S2589C"7Remove this expression which always evaluates to "true"(Ä­î„ûÿÿÿÿ8ÜÕ¾¹¦1
+y	java:S116#"XRename this field "data_file_pre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê‘ˆšÿÿÿÿÿ8àÕ¾¹¦1
+y	java:S116$"XRename this field "data_file_ext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÔ†Ëüÿÿÿÿ8àÕ¾¹¦1
+r	java:S116%"VRename this field "notify_file" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êò˜¨8áÕ¾¹¦1
+~
+java:S4144Ã"[Update this method so that its implementation is not identical to "writeDword" on line 446.(°Ü†¬øÿÿÿÿ8êÕ¾¹¦1
+\
+java:S4719E":Replace charset name argument with StandardCharsets.UTF_16(‚¶Åµøÿÿÿÿ8úÕ¾¹¦1
+t
+java:S3776b"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(…±ÃŠùÿÿÿÿ8šÖ¾¹¦1
+S
+java:S1854¨"5Remove this useless assignment to local variable "b".(Îßœ—8Ö¾¹¦1
+S
+java:S1854¨"5Remove this useless assignment to local variable "g".(Îßœ—8 Ö¾¹¦1
+S
+java:S1854¨"5Remove this useless assignment to local variable "r".(Îßœ—8¡Ö¾¹¦1
+I
+java:S1481¥"&Remove this unused "r" local variable.(¢î®÷ûÿÿÿÿ8­Ö¾¹¦1
+D
+java:S1481¦"&Remove this unused "b" local variable.(Øİê±8®Ö¾¹¦1
+I
+java:S1481§"&Remove this unused "g" local variable.(îÿÂâùÿÿÿÿ8°Ö¾¹¦1
+_
+java:S1075µ"ARefactor your code to get this URI from a customizable parameter.(æü»Ó8ÜÖ¾¹¦1
+_
+java:S1075Ñ"ARefactor your code to get this URI from a customizable parameter.(æü»Ó8àÖ¾¹¦1
+]	java:S899¬";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ëÖ¾¹¦1
+q
+java:S4042¬"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ìÖ¾¹¦1
+p	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãğ±Ñşÿÿÿÿ8îÖ¾¹¦1
+
+java:S1130¹"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(‰Æßµÿÿÿÿÿ8ğÖ¾¹¦1
+
+java:S1130¾"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ì«ÂÙıÿÿÿÿ8òÖ¾¹¦1
+
+java:S1130Ã"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(°Ü†¬øÿÿÿÿ8ôÖ¾¹¦1
+7
+java:S2183¯"Remove this useless shift(‘äìÅ8õÖ¾¹¦1
+7
+java:S2183Ë"Remove this useless shift(ªÄÏ8õÖ¾¹¦1
+é
+java:S6541b"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 121 to 64, Complexity from 18 to 14, Nesting Level from 3 to 2, Number of Variables from 39 to 6.(…±ÃŠùÿÿÿÿ8÷Ö¾¹¦1
