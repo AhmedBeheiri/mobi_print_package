@@ -68,3 +68,5 @@ e.g
 >
     Map<String,dynamic> printResponse = await Mobiprint3.end();
 
+# mobi_print_package
+printing package for mobiprint3 devices
